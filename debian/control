@@ -3,6 +3,7 @@ Section: libdevel
 Priority: optional
 Maintainer: Yauhen Kharuzhy <jekhor@gmail.com>
 Build-Depends: debhelper (>= 4.0.0)
+XCS-Cross-Host-Build-Depends: debhelper (>= 4.0.0)
 Standards-Version: 3.7.3
 Vcs-Git: git://git.debian.org/git/pkg-xorg/proto/x11proto-xcmisc
 Vcs-Browser: http://git.debian.org/?p=pkg-xorg/proto/x11proto-xcmisc.git
