@@ -1,3 +1,10 @@
+x11proto-xcmisc (1.2.0-1) asimov; urgency=low
+
+  * New upstream release.
+  * Packaging cleanup
+
+ -- Mikhail Gusarov <dottedmag@dottedmag.net>  Sat, 26 Sep 2009 04:00:05 +0700
+
 x11proto-xcmisc (1.1.2-6) asimov; urgency=low
 
   * First build for IPlinux.
